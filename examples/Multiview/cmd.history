@@ -1,0 +1,1 @@
+../../build/tools/extract_feature_for_image.bin zeiler_ILSVRC12_train_iter_700000 zeiler_val.prototxt prob list ILSVRC12_mean.binaryproto val.res
